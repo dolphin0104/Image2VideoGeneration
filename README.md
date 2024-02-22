@@ -6,7 +6,6 @@
 </p>
 
 
-https://github.com/dolphin0104/Image2VideoGeneration/assets/34062125/1921fd0e-fa12-4f0d-b7e2-9fd8924446e0
 
 
 ## Test results on 300VW dataset
