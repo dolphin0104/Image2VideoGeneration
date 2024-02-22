@@ -9,6 +9,10 @@
 | ![](/images/522_blur007_000019/input.png)  | ![](/images/522_blur007_000019/gt.gif) | ![](/images/522_blur007_000019/cfmd_07.gif) | ![](/images/522_blur007_000019/cfmd_51.gif) |
 
 
+
+https://github.com/dolphin0104/Image2VideoGeneration/assets/34062125/21be1a99-2c2a-4e2a-9061-f570b2dc4fc9
+
+
 ## Test results on REDS, LAI dataset
 | Blurry Image  | Ours 51 Frames |
 | ------------- | ------------ |
