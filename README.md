@@ -1,4 +1,4 @@
-# Video Generation From a Single Motion Blurred Image
+# Generating High Quality Video From a Single Image
 
 
 <p align="center">
