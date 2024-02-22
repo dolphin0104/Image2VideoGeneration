@@ -9,18 +9,11 @@
 
 
 ## Test results on 300VW dataset
-| Blurry Image  | Ground-Truth  | Ours 7 Frames | Ours 51 Frames |
+
 | ------------- | ------------- | ------------- | ------------- |
-| ![](/samples/aaa.png)  | ![](/samples/s1_gt.gif) | ![](/images/009_blur007_000044/cfmd_07.gif) | ![](/images/009_blur007_000044/cfmd_51.gif) |
-| ![](/images/039_blur007_000039/input.png)  | ![](/images/039_blur007_000039/gt.gif) | ![](/images/039_blur007_000039/cfmd_07.gif) | ![](/images/039_blur007_000039/cfmd_51.gif) |
-| ![](/images/158_blur007_002879/input.png)  | ![](/images/158_blur007_002879/gt.gif) | ![](/images/158_blur007_002879/cfmd_07.gif) | ![](/images/158_blur007_002879/cfmd_51.gif) |
-| ![](/images/522_blur007_000019/input.png)  | ![](/images/522_blur007_000019/gt.gif) | ![](/images/522_blur007_000019/cfmd_07.gif) | ![](/images/522_blur007_000019/cfmd_51.gif) |
+| ![](/samples/s1.png)  | ![](/samples/s1_gt.gif) | ![](/samples/s1_jin.gif) | ![](/samples/s1_zhang.gif) |
+| Input Blur  | Ground-Truth 11 | Ours 7 Frames | Ours 51 Frames |
+| ![](/samples/s1_map.png)  | ![](/samples/s1_ours_11.gif) | ![](/samples/s1_ours_7.gif) | ![](/samples/s1_ours_15.gif) |
+| Input Blur  | Ground-Truth 11 | Ours 7 Frames | Ours 51 Frames |
 
 
-
-
-## Test results on REDS, LAI dataset
-| Blurry Image  | Ours 51 Frames |
-| ------------- | ------------ |
-| ![](/images/Lai_11/input.png)  | ![](/images/Lai_11/cfmd_51.gif) | 
-| ![](/images/REDS_01/input.png)  | ![](/images/REDS_01/cfmd_51.gif) | 
