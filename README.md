@@ -29,3 +29,9 @@
 | Input Blur  | Ground-Truth 11 Frames | Jin et al. 7 Frames | Zhang et al. 15 Frames |
 | ![](/samples/s3_mag.png)  | ![](/samples/s3_ours_11.gif) | ![](/samples/s3_ours_7.gif) | ![](/samples/s3_ours_15.gif) |
 | Magnified part of input  | Ours 11 Frames | Ours 7 Frames | Ours 15 Frames |
+
+| ![](/samples/s4.png)  | ![](/samples/s4_gt.gif) | ![](/samples/s4_jin.gif) | ![](/samples/s4_zhang.gif) |
+| :----------: | :----------: | :----------: | :----------: |
+| Input Blur  | Ground-Truth 11 Frames | Jin et al. 7 Frames | Zhang et al. 15 Frames |
+| ![](/samples/s4_mag.png)  | ![](/samples/s4_ours_11.gif) | ![](/samples/s4_ours_7.gif) | ![](/samples/s4_ours_15.gif) |
+| Magnified part of input  | Ours 11 Frames | Ours 7 Frames | Ours 15 Frames |
