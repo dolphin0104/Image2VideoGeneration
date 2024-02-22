@@ -1,5 +1,12 @@
 # Video Generation From a Single Motion Blurred Image
 
+
+
+
+
+https://github.com/dolphin0104/Image2VideoGeneration/assets/34062125/1921fd0e-fa12-4f0d-b7e2-9fd8924446e0
+
+
 ## Test results on 300VW dataset
 | Blurry Image  | Ground-Truth  | Ours 7 Frames | Ours 51 Frames |
 | ------------- | ------------- | ------------- | ------------- |
@@ -9,8 +16,7 @@
 | ![](/images/522_blur007_000019/input.png)  | ![](/images/522_blur007_000019/gt.gif) | ![](/images/522_blur007_000019/cfmd_07.gif) | ![](/images/522_blur007_000019/cfmd_51.gif) |
 
 
-![](/samples/m1.mp4) 
-[Video_title](/samples/m1.mp4)
+
 
 ## Test results on REDS, LAI dataset
 | Blurry Image  | Ours 51 Frames |
