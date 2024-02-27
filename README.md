@@ -1,13 +1,5 @@
 # Generating High Quality Video From a Single Image
 
-
-<p align="center">
-  <video src="samples/m1.mp4" width="500px"></video>
-</p>
-
-
-
-
 ## Test Results on Natural Scene (GoPro Dataset)
 
 | ![](/samples/s1.png)  | ![](/samples/s1_gt.gif) | ![](/samples/s1_jin.gif) | ![](/samples/s1_zhang.gif) |
