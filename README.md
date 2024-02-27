@@ -1,4 +1,4 @@
-![image](https://github.com/dolphin0104/Image2VideoGeneration/assets/34062125/1a9a9f81-0c86-4940-911a-808b68ce2961)# Generating High Quality Video From a Single Image
+# Generating High Quality Video From a Single Image
 
 
 <p align="center">
