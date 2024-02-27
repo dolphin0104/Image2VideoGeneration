@@ -47,3 +47,12 @@
 | Input Blur  | Ground-Truth 11 Frames | Jin et al. 7 Frames | Zhang et al. 15 Frames |
 | ![](/samples/s5_mag.png)  | ![](/samples/s5_ours_11.gif) | ![](/samples/s5_ours_7.gif) | ![](/samples/s5_ours_15.gif) |
 | Magnified part of input  | Ours 11 Frames | Ours 7 Frames | Ours 15 Frames |
+
+## Test Results on Human Dancing Datset (B-Aist++ Dataset)
+
+| ![](/samples/s7.png)  | ![](/samples/s7_gt.gif) | ![](/samples/s7_zhong.gif) | ![](/samples/s7_ours.gif) |
+| :----------: | :----------: | :----------: | :----------: |
+| ![](/samples/s8.png)  | ![](/samples/s8_gt.gif) | ![](/samples/s8_zhong.gif) | ![](/samples/s8_ours.gif) |
+| Input Blur  | Ground-Truth 7 Frames | Zhong et al. 7 Frames | Ours 7 Frames |
+
+
