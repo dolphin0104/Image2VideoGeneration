@@ -1,4 +1,4 @@
-# Generating High Quality Video From a Single Image
+![image](https://github.com/dolphin0104/Image2VideoGeneration/assets/34062125/1a9a9f81-0c86-4940-911a-808b68ce2961)# Generating High Quality Video From a Single Image
 
 
 <p align="center">
@@ -55,4 +55,9 @@
 | ![](/samples/s8.png)  | ![](/samples/s8_gt.gif) | ![](/samples/s8_zhong.gif) | ![](/samples/s8_ours.gif) |
 | Input Blur  | Ground-Truth 7 Frames | Zhong et al. 7 Frames | Ours 7 Frames |
 
+## References
++ S. Nah T. H. Kim and K. M. Lee "Deep multi-scale convolutional neural network for dynamic scene deblurring" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) pp. 3883-3891 Jul. 2017.
++ M. Jin, G. Meishvili, and P. Favaro, “Learning to extract a video sequence from a single motion-blurred image,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), June 2018, pp. 6334–6342. 
++ Y. Zhang, C. Wang, S. J. Maybank and D. Tao. "Exposure Trajectory Recovery From Motion Blur”, in IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI), vol. 44, no. 11, pp. 7490-7504, 1 Nov. 2022
++ Z. Zhong, X. Sun, Z. Wu, Y. Zheng, S. Lin, and I. Sato, “Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance”. In European Conf. on Comput. Vis. (ECCV), vol 13679. Springer, Cham. 2022.
 
